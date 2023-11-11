@@ -10,12 +10,7 @@
 
 - Sou ecletico em relação a musica, as vezes escuto Eunadi Ludovico outras vezes escuto System of a down. 
 
-- Desejo melhorar e aperfeiçoar minhas habilidades em python para poder desenvolver programas que auxiliem o maximo de pessoas.
-
-### Você pode falar comigo através das seguintes redes:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cofoidethiago/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-guimarães-1b3a36233/)  
-
+- Desejo melhorar e aperfeiçoar minhas habilidades em python para poder desenvolver programas que auxiliem o maximo de pessoas. 
 
 ### Atualmente estudo: 
 
@@ -37,3 +32,8 @@
 #### Linguagens mais usadas:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSou&theme=blue-green)
+
+### Você pode falar comigo através das seguintes redes:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cofoidethiago/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-guimarães-1b3a36233/) 
+<br> Gmail: agosean09@gmail.com
