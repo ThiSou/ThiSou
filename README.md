@@ -8,9 +8,9 @@
 
 - Meu objetivo de vida como programador é conseguir desenvolver otimos jogos e dar oportunidades para outros desenvolvedores no futuro. 
 
-- Sou ecletico em relação a musica, as vezes escuto Eunadi Ludovico outras vezes escuto System of a down. 
+- Também tenho interesse em cursar ciencia da computação    
 
-- Desejo melhorar e aperfeiçoar minhas habilidades em python para poder desenvolver programas que auxiliem o maximo de pessoas. 
+- Desejo melhorar e aperfeiçoar minhas habilidades em python e javascript para poder desenvolver codigos melhores. 
 
 ### Atualmente estudo: 
 
