@@ -1,20 +1,22 @@
 ## Olá, Seja bem vindo(a)! 
 
-### Meu nome é Thiago Souza, eu tenho 20 anos e atualmente curso jogos digitais na anhanguera e desejo me aprofundar um pouco mais em data science. 
+### Meu nome é Thiago Souza, eu tenho 20 anos e atualmente curso engenharia de software, trabalho na infinity School como professor e monitor. 
 
 #### Algumas curiosidades: 
 
-- Meu primeiro contato com programação foi em 2020 quando tentei e fiz um prototipo de um jogo de plataforma pixelart no GameMaker. 
+- Meu primeiro contato com programação foi em 2020 quando tentei e fiz um prototipo de um jogo de rpg isometrico no estilo de pixelart no GameMaker. 
 
-- Meu objetivo de vida como programador é conseguir desenvolver otimos jogos e dar oportunidades para outros desenvolvedores no futuro. 
+- Meu objetivo de vida como programado é prover os melhores sistemas para a comunidade e poder proporcionar oportunidades para outros desenvolvedores. 
 
-- Também tenho interesse em cursar ciencia da computação    
+- Também tenho interesse em compreender melhor os conceitos de data science e poder adiministrar bancos de dados com maestria.     
 
-- Desejo melhorar e aperfeiçoar minhas habilidades em python e javascript para poder desenvolver codigos melhores. 
+- Desejo melhorar e aperfeiçoar minhas habilidades em Python, JavaScript e Java.
+
+- Atualmente estou focando totalmente meus estudos em Java e desenvolvimento de aplicações e websites utilizando Flet.
 
 ### Atualmente estudo: 
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Linguagens que pretendo melhorar: 
 
