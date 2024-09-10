@@ -1,8 +1,10 @@
 ## Olá, Seja bem vindo(a)! 
 
-### Meu nome é Thiago Souza, eu tenho 20 anos e atualmente curso engenharia de software e trabalho na infinity School como professor e monitor. 
+### Meu nome é Thiago Souza, eu tenho 20 anos e atualmente curso engenharia de software. 
 
 #### Algumas curiosidades: 
+
+- Já trabalhei como professor em um instituto de ensino de tecnologias e ainda dou aulas particulares de python e MySql.
 
 - Meu primeiro contato com programação foi em 2020 quando tentei e fiz um prototipo de um jogo de rpg isometrico no estilo de pixelart no GameMaker. 
 
